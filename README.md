@@ -33,3 +33,5 @@ Full-stack web-dev enthusiast • Founder of **Arnett Media**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anthonyarnett1)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anthony@anthonyarnett.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google%20Chrome&logoColor=white&style=flat-square)](https://anthonyarnett.dev)
+
+> “Websites promote you 24/7: No employee will do that.” — Paul Cookson
