@@ -2,7 +2,6 @@
 
 Computer Science undergrad at **Southern New Hampshire University** (Software Engineering Track)
 
-Full-stack web-dev enthusiast • Founder of **Arnett Media**
 
 ![Profile views](https://komarev.com/ghpvc/?username=anthonyarnett&style=flat-square)
 
@@ -15,7 +14,7 @@ Full-stack web-dev enthusiast • Founder of **Arnett Media**
 
 
 
-## 🧰 Tech Toolbox
+## Tech Toolbox
 ![Astro](https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=FF5D01&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
