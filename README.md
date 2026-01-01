@@ -1,16 +1,29 @@
 # Hi, I'm **Anthony**
 
-Computer Science undergrad at **Southern New Hampshire University** (Software Engineering Track)
+Computer Science undergrad at **Southern New Hampshire University**
+Software Engineering track
 
 ![Profile views](https://komarev.com/ghpvc/?username=anthonyarnett&style=flat-square)
 
-## Quick Facts
+## About
 
-- Pursuing a B.S. in Computer Science
-- Favorite Stack: **Astro** (front-end) + **FastAPI** (back-end)
-- Building **Arnett Media** - subscription websites for small businesses
-- Crafting a free library of pure HTML/CSS UI pieces
-- Open to freelance work, collabs, and internships!
+I build practical software and systems with a focus on sustainability, simplicity, and long-term usefulness.
+
+Right now I’m balancing school, family life, and building real projects — learning by shipping, breaking things, and fixing them again.
+
+I care more about consistency than hype.
+
+## What I’m Working On
+
+- Finishing a B.S. in Computer Science (Software Engineering)
+- Building **Arnett Media** - evolving from service websites into AI-powered tools and services
+- Creating a free library of clean, reusable HTML/CSS UI components
+- Maintaining a public daily log in 2026 to build discipline and track progress honestly
+
+## Preferred Stack
+
+Astro on the front end. FastAPI on the back end.  
+Simple, fast, and easy to reason about.
 
 ## Tech Toolbox
 
@@ -34,4 +47,4 @@ Computer Science undergrad at **Southern New Hampshire University** (Software En
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anthony@anthonyarnett.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google%20Chrome&logoColor=white&style=flat-square)](https://anthonyarnett.dev)
 
-> “Websites promote you 24/7: No employee will do that.” — Paul Cookson
+> “Consistency beats intensity.”
