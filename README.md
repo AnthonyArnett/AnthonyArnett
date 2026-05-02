@@ -1,29 +1,25 @@
-# Hi, I'm **Anthony**
+# Anthony Arnett
 
-Computer Science undergrad at **Southern New Hampshire University**
-Software Engineering track
+Stay-at-home dad. CS undergrad. Building things between nap times.
 
 ![Profile views](https://komarev.com/ghpvc/?username=anthonyarnett&style=flat-square)
 
 ## About
 
-I build practical software and systems with a focus on sustainability, simplicity, and long-term usefulness.
+I'm a Computer Science student at Southern New Hampshire University (Software Engineering track).
 
-Right now I’m balancing school, family life, and building real projects — learning by shipping, breaking things, and fixing them again.
-
-I care more about consistency than hype.
+Right now I'm home with my son while building projects, finishing my degree, and slowly turning side work into something real.
 
 ## What I’m Working On
 
-- Finishing a B.S. in Computer Science (Software Engineering)
-- Building **Arnett Media** - evolving from service websites into AI-powered tools and services
-- Creating a free library of clean, reusable HTML/CSS UI components
-- Maintaining a public daily log in 2026 to build discipline and track progress honestly
+- **[anthonyarnett.dev](https://anthonyarnett.com)** — personal site and portfolio
+- **Arnett Digital** — subscription web services for small local businesses *(in progress)*
 
 ## Preferred Stack
 
-Astro on the front end. FastAPI on the back end.  
-Simple, fast, and easy to reason about.
+**Frontend:** Astro · HTML · CSS · JavaScript  
+**Backend:** Python · FastAPI  
+**Tools:** Git · Supabase · Netlify
 
 ## Tech Toolbox
 
@@ -45,6 +41,6 @@ Simple, fast, and easy to reason about.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anthonyarnett1)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anthony@anthonyarnett.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google%20Chrome&logoColor=white&style=flat-square)](https://anthonyarnett.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google%20Chrome&logoColor=white&style=flat-square)](https://anthonyarnett.com)
 
 > “Consistency beats intensity.”
