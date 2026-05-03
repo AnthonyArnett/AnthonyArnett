@@ -2,8 +2,6 @@
 
 Stay-at-home dad. CS undergrad. Building things between nap times.
 
-![Profile views](https://komarev.com/ghpvc/?username=anthonyarnett&style=flat-square)
-
 ## About
 
 I'm a Computer Science student at Southern New Hampshire University (Software Engineering track).
@@ -12,7 +10,7 @@ Right now I'm home with my son while building projects, finishing my degree, and
 
 ## What I’m Working On
 
-- **[anthonyarnett.dev](https://anthonyarnett.com)** — personal site and portfolio
+- **[anthonyarnett.com](https://anthonyarnett.com)** — personal site and portfolio
 - **Arnett Digital** — subscription web services for small local businesses *(in progress)*
 
 ## Preferred Stack
@@ -32,15 +30,8 @@ Right now I'm home with my son while building projects, finishing my degree, and
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-## Github Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=anthonyarnett&show_icons=true&hide=issues&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyarnett&layout=compact&hide=html,css&theme=default)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anthonyarnett1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anthony@anthonyarnett.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:me@anthonyarnett.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google%20Chrome&logoColor=white&style=flat-square)](https://anthonyarnett.com)
-
-> “Consistency beats intensity.”
